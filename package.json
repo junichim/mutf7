@@ -1,13 +1,19 @@
 {
   "name": "mutf7",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Tool for modified utf-7 encoding/decording",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "bin": {
+    "mutf7": "index.js"
+  },
+  "author": "Junichi MORI",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junichim/mutf7.git"
+  },
   "dependencies": {
     "commander": "^3.0.0",
     "iconv-lite": "^0.5.0"

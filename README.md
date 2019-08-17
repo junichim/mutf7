@@ -36,6 +36,8 @@ $ npm unlink -g mutf7
 
 ブログ記事
 
+https://blog.mori-soft.com/entry/2019/08/17/143453
+
 を参照
 
 ## ライセンス
